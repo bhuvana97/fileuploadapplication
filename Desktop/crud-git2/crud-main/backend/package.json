@@ -1,0 +1,23 @@
+{
+  "name": "crudaplication-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    
+    "mongoose": "^6.10.0",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "build":"npm i"
+  },
+  "author": "Bhuvaneswari Nandagopal",
+  "license": "ISC"
+}

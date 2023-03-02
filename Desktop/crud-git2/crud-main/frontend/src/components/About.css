@@ -1,0 +1,46 @@
+.about-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    
+        width: 100%;
+        height: 800px;
+        background-image: url('https://images.pexels.com/photos/3945317/pexels-photo-3945317.jpeg?auto=compress&cs=tinysrgb&w=600');
+        background-size: cover;
+    
+  }
+  
+  .about-header {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .about-header h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+    color: rgb(246, 255, 248);
+
+  }
+  
+  .about-header p {
+    font-size: 24px;
+
+    color: rgb(209, 235, 215);
+}
+  
+  .about-content {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .about-content p {
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgb(209, 235, 215);
+  }
+  
+
+
+  /* https://images.pexels.com/photos/65128/pexels-photo-65128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 */
